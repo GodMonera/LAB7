@@ -47,4 +47,5 @@ int main(){
 		 cout << "Palindrome: No" ;
 	}
     return 0;
+	
 }
